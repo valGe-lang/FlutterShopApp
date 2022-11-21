@@ -1,2 +1,2 @@
 # FlutterShopApp
-Shop mobile application made with dart programming language for school assigment
+Shop mobile application made with dart for school assigment
